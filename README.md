@@ -29,15 +29,14 @@ This project demonstrates my skills in **full-stack development**, **authenticat
 
 ## 📂 Project Structure
 
-goCart-personal/
-├── public/             # Static assets (images, favicon, etc.)
-├── src/                # React components & pages
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # App pages (Home, Cart, Dashboard, etc.)
-│   └── styles/         # Styling configs
-├── package.json        # Project dependencies
-└── README.md           # Project documentation
-
+📦 goCart-personal  
+├── 📂 public/             → Static assets (images, favicon, etc.)  
+├── 📂 src/                → React components & pages  
+│   ├── 🧩 components/     → Reusable UI components  
+│   ├── 📄 pages/          → App pages (Home, Cart, Dashboard, etc.)  
+│   └── 🎨 styles/         → Styling configs  
+├── 📄 package.json        → Project dependencies  
+└── 📝 README.md           → Project documentation  
 
 
 ---
@@ -61,31 +60,30 @@ goCart-personal/
    
 ---   
 
-##🌍 Live Demo
+## 🌍 Live Demo
 
 🔗 Coming soon (to be hosted on Vercel/Netlify/Render).
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
-Add real payment integration (Stripe/PayPal)
+- Add real payment integration (Stripe/PayPal)
 
-Add product search & filters
+- Add product search & filters
 
-Improve dashboard analytics
+- Improve dashboard analytics
 
-Deploy with full backend API
+- Deploy with full backend API
 
 ---
 
-##👤 Author
+### 👤 Author: Elvis Kenneth
+#### 📧Email: elviskenneth123@gmail.com
 
-Elvis Kenneth
-📧 elviskenneth123@gmail.com
 
