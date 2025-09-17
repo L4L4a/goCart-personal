@@ -29,7 +29,6 @@ This project demonstrates my skills in **full-stack development**, **authenticat
 
 ## 📂 Project Structure
 
-```bash
 goCart-personal/
 ├── public/             # Static assets (images, favicon, etc.)
 ├── src/                # React components & pages
@@ -40,6 +39,7 @@ goCart-personal/
 └── README.md           # Project documentation
 
 
+
 ---
 
 ## ⚡ How to Run Locally
@@ -48,26 +48,31 @@ goCart-personal/
    ```bash
    git clone https://github.com/L4L4a/goCart-personal.git
    cd goCart-personal
+
+   
 2. Install dependencies:
 
    npm install
+
 
 3. Start development server:
 
    npm start
    
+---   
 
-🌍 Live Demo
+##🌍 Live Demo
 
 🔗 Coming soon (to be hosted on Vercel/Netlify/Render).
 
+---
 
-📸 Screenshots
+##📸 Screenshots
 
 
+---
 
-
-📌 Future Improvements
+##📌 Future Improvements
 
 Add real payment integration (Stripe/PayPal)
 
@@ -77,8 +82,10 @@ Improve dashboard analytics
 
 Deploy with full backend API
 
+---
 
-👤 Author
+##👤 Author
 
 Elvis Kenneth
 📧 elviskenneth123@gmail.com
+
