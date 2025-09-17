@@ -50,12 +50,12 @@ This project demonstrates my skills in **full-stack development**, **authenticat
 
    
 2. Install dependencies:
-
+    ```bash
    npm install
 
 
 3. Start development server:
-
+    ```bash
    npm start
    
 ---   
