@@ -29,14 +29,15 @@ This project demonstrates my skills in **full-stack development**, **authenticat
 
 ## 📂 Project Structure
 
+```bash
 goCart-personal/
-├── public/ # Static assets (images, favicon, etc.)
-├── src/ # React components & pages
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # App pages (Home, Cart, Dashboard, etc.)
-│ └── styles/ # Styling configs
-├── package.json # Project dependencies
-└── README.md # Project documentation
+├── public/             # Static assets (images, favicon, etc.)
+├── src/                # React components & pages
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # App pages (Home, Cart, Dashboard, etc.)
+│   └── styles/         # Styling configs
+├── package.json        # Project dependencies
+└── README.md           # Project documentation
 
 
 ---
